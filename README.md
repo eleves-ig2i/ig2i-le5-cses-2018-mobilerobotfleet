@@ -1,3 +1,5 @@
+[LIRE LE COMPTE-RENDU](https://docs.google.com/document/d/1V95vVBFK4OZeRClZR12xrBL9uFKceN-3wwI_HEzU-Wo)
+
 # Mobile robot fleet
 
 Distributed control of a fleet of robotino using etcd.
@@ -22,7 +24,7 @@ $ ./run.sh
 
 Build binaries with Go:
 ```bash
-$ go build
+$ go build -o mobilerobotfleet.exe
 ```
 
 Then run them on every node at the same time, specifying the pool ips. For example:

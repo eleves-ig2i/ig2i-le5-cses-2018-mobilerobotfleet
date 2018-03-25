@@ -21,7 +21,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/kindermoumoute/mobilerobotfleet/smartfleet"
+	"github.com/eleves-ig2i/ig2i-le5-cses-2018-mobilerobotfleet/smartfleet"
 )
 
 // default ports
